@@ -17,6 +17,7 @@ Once you've got Node installed:
 * `git clone git@github.com/Igorth/front-end-be-the-hero.git`
 * `cd front-end-be-the-hero`
 * `npm install` to install dependencies
+* `npm start` to start the project
 * Check out the repo to see the git history: `https://github.com/Igorth/front-end-be-the-hero`
 
 ## Contributing
