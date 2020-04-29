@@ -1,7 +1,15 @@
 # Front-end -> To Be Hero
+![](https://img.shields.io/github/license/Igorth/front-end-be-the-hero)
 
 [Semana Omnistack 11](https://rocketseat.com.br/)
-Learning concepts about Node.js, React and React Native.
+Learning a little more about ReactJS to create a complete application.
+
+## 🕹Demo
+
+![](bethehero.gif)
+
+## 🖥 Techs
+Node.js | Javascript | ReactJS | Insomnia
 
 ## Instructions
 
@@ -16,19 +24,17 @@ First, if you don't have Node.js you'll need to install it:
 Once you've got Node installed:
 * `git clone git@github.com/Igorth/front-end-be-the-hero.git`
 * `cd front-end-be-the-hero`
-* `npm install` to install dependencies
-* `npm start` to start the project
+* `yarn` to install dependencies
+* `yarn start` to start the project
 * Check out the repo to see the git history: `https://github.com/Igorth/front-end-be-the-hero`
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://github.com/Igorth/back-end-be-the-hero/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/Igorth/front-end-be-the-hero/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Authors
 
-* **Igor Dias** - *Initial work* - [Be The Hero](https://github.com/Igorth/back-end-be-the-hero)
-
-See also the list of [contributors](https://github.com/your/front-end-be-the-hero/contributors) who participated in this project.
+* [**Igor Dias**](https://www.linkedin.com/in/igordiasth/)
 
 ## License
 
